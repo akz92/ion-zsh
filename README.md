@@ -1,0 +1,1 @@
+# Ionic aliases for zsh
