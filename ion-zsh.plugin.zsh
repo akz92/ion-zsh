@@ -1,6 +1,6 @@
 alias is="ionic serve"
-alias ira="ionic run android"
-alias iri="ionic run ios"
+alias ira="ionic cordova run android"
+alias iri="ionic cordova run ios"
 alias ipa="ionic plugin add"
 alias iea="ionic emulate android"
 alias iei="ionic emulate ios"
